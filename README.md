@@ -1,5 +1,3 @@
-# KNN-MapReduce-and-Pig
-
 KNN-MapReduce-and-Pig
 ===
 
